@@ -1,3 +1,20 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/AspProject/Default.aspx) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
+* [Default.aspx.cs](./CS/AspProject/Default.aspx.cs) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
+* [Invoices.xml](./CS/Invoices.xml) (VB: [Invoices.xml](./VB/Invoices.xml))
+* [FilterConfig.cs](./CS/MvcProject/App_Start/FilterConfig.cs)
+* [RouteConfig.cs](./CS/MvcProject/App_Start/RouteConfig.cs)
+* [WebApiConfig.cs](./CS/MvcProject/App_Start/WebApiConfig.cs)
+* [HomeController.cs](./CS/MvcProject/Controllers/HomeController.cs)
+* [DashboardModel.cs](./CS/MvcProject/Models/DashboardModel.cs)
+* [AjaxLogin.js](./CS/MvcProject/Scripts/AjaxLogin.js)
+* [_DashboardViewerPartial.cshtml](./CS/MvcProject/Views/Home/_DashboardViewerPartial.cshtml)
+* [Index.cshtml](./CS/MvcProject/Views/Home/Index.cshtml)
+* [NwindHelper.cs](./CS/NwindDataAdapter/NwindHelper.cs) (VB: [NwindHelper.vb](./VB/NwindDataAdapter/NwindHelper.vb))
+* [ViewerForm.cs](./CS/WinFormsProject/ViewerForm.cs) (VB: [ViewerForm.vb](./VB/WinFormsProject/ViewerForm.vb))
+<!-- default file list end -->
 # How to replace a data source bound to a database with a new one bound to a list of objects
 
 
