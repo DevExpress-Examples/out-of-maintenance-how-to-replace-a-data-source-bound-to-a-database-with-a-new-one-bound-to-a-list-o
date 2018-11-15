@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/AspProject/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/AspProject/Default.aspx.vb))
+* [ViewerForm.cs](./CS/WinFormsProject/ViewerForm.cs) (VB: [ViewerForm.vb](./VB/WinFormsProject/ViewerForm.vb))
+<!-- default file list end -->
 # How to replace a data source bound to a database with a new one bound to a list of objects
 
 
