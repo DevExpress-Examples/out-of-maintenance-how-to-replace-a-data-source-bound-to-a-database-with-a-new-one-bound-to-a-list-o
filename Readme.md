@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/AspProject/Default.aspx) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
-* [Default.aspx.cs](./CS/AspProject/Default.aspx.cs) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
+* [Default.aspx.cs](./CS/AspProject/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/AspProject/Default.aspx.vb))
 * [Invoices.xml](./CS/Invoices.xml) (VB: [Invoices.xml](./VB/Invoices.xml))
 * [FilterConfig.cs](./CS/MvcProject/App_Start/FilterConfig.cs)
 * [RouteConfig.cs](./CS/MvcProject/App_Start/RouteConfig.cs)
